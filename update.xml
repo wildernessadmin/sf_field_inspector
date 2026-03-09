@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='ihjdljioplfhogdiknaoeggnbdnjgfll'>
-    <updatecheck codebase='https://wildernessadmin.github.io/sf_field_inspector/SF%20Field%20Inspector.crx' version='1.0' />
+  <app appid="ihjdljioplfhogdiknaoeggnbdnjgfll">
+    <updatecheck codebase="https://wildernessadmin.github.io/sf_field_inspector/SF%20Field%20Inspector.crx" version='1.0' />
   </app>
 </gupdate>
